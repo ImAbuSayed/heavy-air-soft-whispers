@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-air-soft-whispers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heavy Air Soft Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-soft-whispers/) |
+| **Get License** | [Get a Licensing Quote for Heavy Air Soft Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-soft-whispers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight pulling on this quiet starry sky
+> Shadows falling as the firelight dances by
+> Drawing closer just to catch the breath you take
+> I’m wide awake and burning for your sake
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
